@@ -13,7 +13,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_p.mk)
 $(call inherit-product, device/oneplus/guacamole/device.mk)
 
 # Inherit some common DerpFest OS stuff.
-$(call inherit-product, vendor/aosip/config/common_full_phone.mk)
+$(call inherit-product, vendor/derp/config/common_full_phone.mk)
 IS_PHONE := true
 
 # OFFICIAL DerpFest
