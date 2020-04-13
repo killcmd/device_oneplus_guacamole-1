@@ -1,0 +1,26 @@
+[
+  {
+    "repository"  : "killcmd/device_oneplus_sm8150-common",
+    "target_path" : "device/oneplus/sm8150-common",
+    "branch": "derp",
+    "remote": "github"
+  },
+  {
+    "repository"  : "killcmd/device_oneplus_common",
+    "target_path" : "device/oneplus/common",
+    "branch": "derp",
+    "remote": "github"
+  },
+  {
+    "repository"  : "killcmd/kernel_oneplus_sm8150",
+    "target_path" : "kernel/oneplus/sm8150",
+    "branch": "derp",
+    "remote": "github"
+  },
+  {
+    "repository"  : "killcmd/vendor_oneplus",
+    "target_path" : "vendor/oneplus",
+    "branch": "derp",
+    "remote": "github"
+  }
+]
